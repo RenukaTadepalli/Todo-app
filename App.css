@@ -1,0 +1,13 @@
+body{
+  background-image: url("https://www.shutterstock.com/image-illustration/colored-gradient-background-lemon-yellow-260nw-1413972623.jpg");
+  background-repeat: no-repeat;
+  /* background-position: center; */
+  background-size: cover;
+
+}
+.todo{
+  background:linear-gradient(to left, blue,red);
+}
+.do{
+  background:linear-gradient(to right, blue,red);
+}
